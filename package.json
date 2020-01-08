@@ -1,0 +1,16 @@
+{
+  "name": "texas-holdem-project",
+  "version": "1.0.0",
+  "description": "Derek and Matt's take on a Javscript version of Texas Holdem",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

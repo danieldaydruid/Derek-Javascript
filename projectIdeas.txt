@@ -1,0 +1,11 @@
+// Project Ideas Spike
+
+// Schedule January 8, 2020: Calculator application
+// A Blackjack function?
+
+
+// Schedule January 7, 2020: Texas Holdem program (in the console)
+
+// PLEX GUI fakeout that would display object data on-screen, including poster images and synopses or whatever.
+// Vacation Timer webpage that displays a countdown until your next planned vacation (background image and fancy numbers)
+// Script that changes my DNS server (powershell?)
