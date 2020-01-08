@@ -10,6 +10,6 @@ it('will return true when we call the poop() function', function() {
 
 it('will return true when we call the fart() function', function() {
 
-    expect( false ).to.equal( false );
+    expect( true ).to.equal( true );
 
 });
