@@ -101,5 +101,3 @@ startOfGame( numberOfPlayers );
 console.log( theDeck.length );
 
 printAllCards( numberOfPlayers );
-
-console.log('Adding to now git');
