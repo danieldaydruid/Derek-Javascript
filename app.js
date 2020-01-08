@@ -101,3 +101,4 @@ startOfGame( numberOfPlayers );
 console.log( theDeck.length );
 
 printAllCards( numberOfPlayers );
+
