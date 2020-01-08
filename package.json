@@ -19,7 +19,7 @@
     "nanocommit": {
         "testCommand": "mocha",
         "blindCommit": true,
-        "commitMessage": "tyvm",
+        "commitMessage": null,
         "annotations": "nanocommit",
         "watchFiles": [],
         "defaultCommandArgs": null,
