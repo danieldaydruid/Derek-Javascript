@@ -12,5 +12,8 @@
     "chai": "^4.2.0",
     "mocha": "^7.0.0",
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "nanocommit": "^1.13.0"
   }
 }
