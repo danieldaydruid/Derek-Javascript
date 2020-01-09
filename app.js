@@ -2,7 +2,7 @@ console.log(require('prompt-sync')()('Press Enter to continue: '))
 var prompt = require('prompt-sync')({
     sigint: false
   });
-
+  // Matt is a boob
   var theDeck = [
     { suit: 'heart', value: 1 }, { suit: 'heart', value: 2 }, { suit: 'heart', value: 3 }, { suit: 'heart', value: 4 },
     { suit: 'heart', value: 5 }, { suit: 'heart', value: 6 }, { suit: 'heart', value: 7 }, { suit: 'heart', value: 8 }, 
@@ -101,4 +101,3 @@ startOfGame( numberOfPlayers );
 console.log( theDeck.length );
 
 printAllCards( numberOfPlayers );
-
